@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import * as S from './indexPage.styles';
 
 export const IndexPageTemplate = () => {
-  const [counter, setCounter] = useState(0);
+  const [counter, setCounter] = useState(500);
   const [date, setDate] = useState(new Date());
 
   const handleOnMouseMove = (e) => {
