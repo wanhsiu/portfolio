@@ -5,11 +5,23 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import { Global, css } from '@emotion/react';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
+      <Global
+        styles={css`
+          @import url("https://use.typekit.net/mff0sqf.css");
+
+          html,body {
+            margin: 0;
+            padding: 0;
+            font-family: acumin-pro, sans-serif;
+          }
+        `}
+        />
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
@@ -48,9 +60,7 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
       </Helmet>
-      <Navbar />
       <div>{children}</div>
-      <Footer />
     </div>
   )
 }
