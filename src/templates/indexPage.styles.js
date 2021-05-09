@@ -17,33 +17,33 @@ export const Container = styled.div`
 
 export const Name = styled.div`
     position: absolute;
-    margin: ${margin} 0 0 ${margin};
+    padding: ${margin} 0 0 ${margin};
 `;
 
 export const Time = styled.div`
     position: absolute;
     right: 0;
-    margin: ${margin} ${margin} 0 0;
+    padding: ${margin} ${margin} 0 0;
 `;
 
 export const UnderConstructionMessage = styled.div`
     position: absolute;
     bottom: 0;
-    margin: 0 0 ${margin} ${margin};
+    padding: 0 0 ${margin} ${margin};
     width: 150px;
     @media (min-width: 500px) {
         width: 300px;
     }
     @media (min-width: 1000px) {
-        width: 100%;
+        width: auto;
     }
 `;
 
 export const Contact = styled.div`
     position: absolute;
     bottom: 0;
-    right: 0;
-    margin: 0 ${margin} ${margin} 0;
+    right: ${margin};
+    padding: 0 ${margin} ${margin} 0;
 
     a {
         color: lightgreen;
