@@ -9,6 +9,9 @@ details: |-
   Matte
 
   Typeface: Arial
+images:
+  - src: /img/blog-index.jpg
+    alt: Cofee
 categories:
   - category: Book Design
   - category: Typesetting
