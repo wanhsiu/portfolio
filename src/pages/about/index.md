@@ -1,7 +1,11 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
+description: |-
+  Wendie is in brooklyn.
+
+  Lets get in touch.
 ---
 ### Shade-grown coffee
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
