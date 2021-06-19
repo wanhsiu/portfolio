@@ -9,6 +9,5 @@ details: |-
   Matte
 
   Typeface: Arial
-categories:
-  - Book
+categories: []
 ---
