@@ -1,6 +1,6 @@
 ---
 templateKey: project
-title: Yayoi Kusuma Wiki Book2
+title: Yayoi Kusuma Wiki Book
 date: 2021-06-19T14:05:10.647Z
 projectDate: 2021-06-19T14:05:10.655Z
 description: This project explores typography.
