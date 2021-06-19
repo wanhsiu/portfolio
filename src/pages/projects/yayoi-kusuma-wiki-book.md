@@ -9,5 +9,7 @@ details: |-
   Matte
 
   Typeface: Arial
-categories: []
+categories:
+  - category: Book Design
+  - category: Typesetting
 ---
