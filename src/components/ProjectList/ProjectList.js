@@ -7,9 +7,9 @@ import breakpoints from '../../constants/breakpoints';
 import useTimeCfg from '../useTimeCfg';
 
 const ProjectItem = ({ data, width, onMouseEnter, onMouseLeave }) => {
-    const { fields, frontmatter, id } = data;
+    const { fields, frontmatter } = data;
     const { slug } = fields;
-    const { title, date, projectDate, categories: categoriesData, images } = frontmatter;
+    const { title, projectDate, categories: categoriesData, images } = frontmatter;
     const [isHovered, setIsHovered] = useState(false);
     const { circleColor, invertBaseColor } = useTimeCfg();
 

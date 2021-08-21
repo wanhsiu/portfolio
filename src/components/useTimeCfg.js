@@ -9,11 +9,13 @@ export default function useTimeCfg() {
     const colorConfig = {
         morning: {
             backgroundColor: '#C4C4C4',
-            circleColor: '#0038FF'
+            circleColor: '#0038FF',
+            invertBaseColor: false
         },
         midday: {
             backgroundColor: '#D5D8B1',
-            circleColor: '#1CED56'
+            circleColor: '#1CED56',
+            invertBaseColor: false
         },
         evening: {
             backgroundColor: '#000',

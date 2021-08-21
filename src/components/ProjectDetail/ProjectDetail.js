@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactMarkdown from 'react-markdown'
 import * as S from './ProjectDetail.styles';
 import * as E from '../ProjectList/ProjectList.styles';
 import useTimeCfg from '../useTimeCfg';
@@ -10,7 +9,6 @@ export const ProjectDetails = ({
 }) => {
     const {
         categories: categoriesData,
-        date,
         projectDate,
         vimeoId,
         description,
