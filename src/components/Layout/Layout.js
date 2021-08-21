@@ -17,7 +17,7 @@ export const Layout = ({ children }) => {
     console.log('circleColor', circleColor);
 
     return (
-            <S.Container backgroundColor={backgroundColor}>
+            <S.Container backgroundColor={backgroundColor} invertBaseColor={invertBaseColor} circleColor={circleColor}>
             <Global
                 styles={css`
                 @font-face {
@@ -36,18 +36,10 @@ export const Layout = ({ children }) => {
                 html, body {
                     width: 100vw;
                     height: 100vh;
-                    color: ${invertBaseColor ? '#fff' : '#000'} !important;
                 }
 
                 body {
                     font-family: 'Telegraf', sans-serif;
-                }
-
-                a {
-                    color: ${invertBaseColor ? '#fff' : '#000'} !important;
-                    :hover {
-                        color: ${circleColor} !important;
-                    }
                 }
                 `}
                 />

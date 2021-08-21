@@ -14,6 +14,14 @@ export const Content = styled.div`
     ${mediaQueries("md")`
         padding-top: 90px;
     `}
+
+    color: ${props => props.invertBaseColor ? '#fff' : '#000'} !important;
+    a {
+        color: ${props => props.invertBaseColor ? '#fff' : '#000'} !important;
+        :hover {
+            color: ${props => props.circleColor} !important;
+        }
+    }
 `;
 
 export const StyledHeader = styled(Header)`
