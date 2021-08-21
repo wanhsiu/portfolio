@@ -3,14 +3,11 @@ import { graphql } from 'gatsby'
 import { Layout } from '../components/Layout/Layout';
 import { ProjectDetails } from '../components/ProjectDetail/ProjectDetail';
 
-const Project = ({
-    id,
-    pageResources
-}) => {
-   const projectData = pageResources.json.data.markdownRemark.frontmatter;
+const Project = ({ data }) => {
+    const projectData = data.markdownRemark.frontmatter;
 
     return (
-        <Layout key={id}>
+        <Layout key={data.markdownRemark.id}>
             <ProjectDetails data={projectData} />
         </Layout>
     )
