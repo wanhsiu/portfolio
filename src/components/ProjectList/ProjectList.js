@@ -58,7 +58,6 @@ export const ProjectList = ({projects}) => {
         const { image } = e;
         if (image) {
             setProjectImage(image.src.publicURL);
-            console.log(image.src.publicURL)
         }
 
     }

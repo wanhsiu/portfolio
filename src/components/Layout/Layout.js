@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Helmet } from 'react-helmet'
 import { withPrefix } from 'gatsby'
 import { Global, css } from '@emotion/react';
@@ -10,16 +10,14 @@ require('normalize.css')
 
 export const Layout = ({ children }) => {
     const { title, description, keywords } = useSiteMetadata();
-    const [ counter, setCounter ] = useState(500);
     const { backgroundColor, invertBaseColor, circleColor } = useTimeCfg();
 
-    const handleOnMouseMove = (e) => {
-        const nextCounter = counter + 0.25;
-        setCounter(nextCounter);
-    }
+    console.log('backgroundColor', backgroundColor);
+    console.log('invertBaseColor', invertBaseColor);
+    console.log('circleColor', circleColor);
 
     return (
-            <S.Container backgroundColor={backgroundColor} onMouseMove={handleOnMouseMove}>
+            <S.Container backgroundColor={backgroundColor}>
             <Global
                 styles={css`
                 @font-face {
