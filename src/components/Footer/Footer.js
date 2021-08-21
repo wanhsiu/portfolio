@@ -6,7 +6,7 @@ import * as S from './Footer.styles';
 export const Footer = ({className}) => {
     return <S.Container className={className}>
         <div>
-            {window.location.pathname !== '/' && <S.StyledLink to={"/"}>INDEX</S.StyledLink>}
+            {typeof window !== 'undefined' && window.location.pathname !== '/' && <S.StyledLink to={"/"}>INDEX</S.StyledLink>}
         </div>
         <div>
             <S.ContactButton href="mailto:wendie.lee4@gmail.com">CONTACT</S.ContactButton>
