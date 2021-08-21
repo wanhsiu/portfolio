@@ -12,12 +12,11 @@ export const Layout = ({ children }) => {
     const { title, description, keywords } = useSiteMetadata();
     const { backgroundColor, invertBaseColor, circleColor } = useTimeCfg();
 
-    console.log('backgroundColor', backgroundColor);
-    console.log('invertBaseColor', invertBaseColor);
-    console.log('circleColor', circleColor);
-
     return (
-            <S.Container backgroundColor={backgroundColor} invertBaseColor={invertBaseColor} circleColor={circleColor}>
+            <S.Container 
+                backgroundColor={backgroundColor}
+                invertBaseColor={invertBaseColor}
+                circleColor={circleColor}>
             <Global
                 styles={css`
                 @font-face {
