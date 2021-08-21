@@ -1,27 +1,32 @@
-import { graphql } from 'gatsby';
+import { graphql, StaticQuery } from 'gatsby';
 import React from 'react';
 import { About } from '../components/About';
 
 import { Layout } from '../components/Layout/Layout';
 
-const AboutPageTemplate = ({pageResources}) => {
-    const { title, description } = pageResources.json.data.markdownRemark.frontmatter;
+const AboutPageTemplate = ({data}) => {
+    const { description } = data.edges[0].node.frontmatter;
     return <Layout>
         <About description={description}/>
     </Layout>
 };
 
-export default AboutPageTemplate;
-
-
-export const aboutPageQuery = graphql`
-    query AboutPage($id: String!) {
-        markdownRemark(id: { eq: $id }) {
-            html
+export default () => (
+    <StaticQuery
+      query={graphql`
+      query ABOUT_INDEX_QUERY {
+        allMarkdownRemark(filter: {fields: {slug: {glob: "/about*"}}}) {
+        edges {
+            node {
+            id
             frontmatter {
-                title
                 description
             }
+            }
+        }
         }
     }
-`;
+    `}
+    render={({allMarkdownRemark}) => <AboutPageTemplate data={allMarkdownRemark} />}
+    />
+  )
