@@ -16,26 +16,29 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              tags
               templateKey
+              isPage
             }
           }
         }
       }
     }
   `).then((result) => {
+
     if (result.errors) {
       result.errors.forEach((e) => console.error(e.toString()))
       return Promise.reject(result.errors)
     }
 
+
     const posts = result.data.allMarkdownRemark.edges
 
-    posts.forEach((edge) => {
+    posts
+      .filter(e => e.node.frontmatter.isPage !== false)
+      .forEach((edge) => {
       const id = edge.node.id
       createPage({
         path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),
@@ -46,21 +49,23 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
+    /*
     // Tag pages:
-    let tags = []
+    let categories = []
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach((edge) => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
+      if (_.get(edge, `node.frontmatter.categories`)) {
+        categories = categories.concat(edge.node.frontmatter.tags)
       }
     })
     // Eliminate duplicate tags
-    tags = _.uniq(tags)
+    categories = _.uniq(categories)
 
     // Make tag pages
-    tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
+    categories.forEach((category) => {
+      const tagPath = `/category/${_.kebabCase(category)}/`
 
+      /*
       createPage({
         path: tagPath,
         component: path.resolve(`src/templates/tags.js`),
@@ -68,7 +73,9 @@ exports.createPages = ({ actions, graphql }) => {
           tag,
         },
       })
+      
     })
+    */
   })
 }
 
