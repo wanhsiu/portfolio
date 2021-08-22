@@ -12,10 +12,10 @@ export const Layout = ({ children }) => {
     const { backgroundColor, invertBaseColor, circleColor } = useTimeCfg();
     const [fontsloaded, setFontsLoaded] = useState(false);
     const isSSR = typeof window === 'undefined';
-    const WebFont = require('webfontloader')
 
     useEffect(() => {
         if (!fontsloaded && !isSSR) {
+            const WebFont = require('webfontloader')
             WebFont.load({
                 custom: {
                 families: ['Telegraf'],
