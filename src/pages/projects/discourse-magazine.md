@@ -2,7 +2,7 @@
 templateKey: project
 title: Discourse Magazine
 date: 2021-08-21T13:16:20.101Z
-projectDate: 2021-08-21T13:16:20.115Z
+projectDate: 2021-03-04T14:16:20.115Z
 description: Discourse is a bi annual magazine that focuses on water with a
   design sensibility. A design focused magazine that brings a diverse community
   together to discuss sustainable and human —centric solutions to solve the
