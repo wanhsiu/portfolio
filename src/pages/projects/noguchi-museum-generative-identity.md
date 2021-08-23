@@ -2,7 +2,7 @@
 templateKey: project
 title: Noguchi Museum Generative Identity
 date: 2020-09-09T19:58:00.000Z
-projectDate: 2021-08-21T12:52:15.940Z
+projectDate: 2020-08-21T12:52:00.000Z
 description: >-
   Created a new visual identity for the Noguchi Museum in Long Island City, New
   York. The identity is created through generative design, using code to
