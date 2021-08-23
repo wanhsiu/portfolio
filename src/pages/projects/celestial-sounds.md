@@ -38,6 +38,8 @@ images:
     alt: "8"
   - src: /img/solangeturrell_8-copy.jpg
     alt: "9"
+  - src: /img/website_mockup_8.23_v2.gif
+    alt: gif
 vimeoId: "591089409"
 categories:
   - category: Editorial
