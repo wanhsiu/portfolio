@@ -2,7 +2,7 @@
 templateKey: project
 title: Celestial Sounds
 date: 2021-07-18T17:22:06.440Z
-projectDate: 2021-07-18T17:22:06.448Z
+projectDate: 2021-05-12T17:22:06.448Z
 description: "***Celestial Sounds*** is a fictional opening event for James
   Turrell’s Rodin Crater in Arizona which will feature a special performance by
   music and visual artist Solange- who will be reviving her most recent album
