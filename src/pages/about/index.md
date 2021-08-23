@@ -7,7 +7,7 @@ description: >-
   of Design. 
 
 
-  In her previous life she was working in fashion doing ecommerce, production and styling. She has worked with companies such as [Hermes](https://www.hermes.com/us/en/), [Otte New York](https://otteny.com/), and [Stone and Strand](https://www.stoneandstrand.com/).
+  In her previous life she was working in fashion doing e commerce, production and styling. She has worked with companies such as [Hermes](https://www.hermes.com/us/en/), [Otte New York](https://otteny.com/), and [Stone and Strand](https://www.stoneandstrand.com/).
 
 
   She is currently looking for internships, full time, and freelance opportunities in graphic design.
