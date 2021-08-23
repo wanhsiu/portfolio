@@ -20,6 +20,8 @@ details: |-
   \
   Typeface: Violet Sans
 images:
+  - src: /img/website_mockup_8.23_v2.gif
+    alt: gif
   - src: /img/solangeturrell_cover.jpg
     alt: "1"
   - src: /img/solangeturrell_1-copy.jpg
@@ -38,8 +40,6 @@ images:
     alt: "8"
   - src: /img/solangeturrell_8-copy.jpg
     alt: "9"
-  - src: /img/website_mockup_8.23_v2.gif
-    alt: gif
 vimeoId: "591089409"
 categories:
   - category: Editorial
