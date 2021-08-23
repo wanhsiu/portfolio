@@ -22,7 +22,7 @@ details: |-
 images:
   - src: /img/website_mockup_8.23_v2.gif
     alt: gif
-  - src: /img/solangeturrell_cover.jpg
+  - src: /img/cover-template.jpg
     alt: "1"
   - src: /img/solangeturrell_1-copy.jpg
     alt: "2"
