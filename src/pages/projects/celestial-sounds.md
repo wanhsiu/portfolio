@@ -40,6 +40,8 @@ images:
     alt: "8"
   - src: /img/solangeturrell_8-copy.jpg
     alt: "9"
+  - src: /img/artboard-3.jpg
+    alt: swag
 vimeoId: "591089409"
 categories:
   - category: Editorial
