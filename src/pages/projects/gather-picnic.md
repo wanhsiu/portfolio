@@ -31,5 +31,5 @@ images:
     alt: merch
 vimeoId: "588389941"
 categories:
-  - category: Identity
+  - category: Branding
 ---
