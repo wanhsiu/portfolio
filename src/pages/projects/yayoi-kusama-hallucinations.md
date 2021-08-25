@@ -34,5 +34,4 @@ images:
 vimeoId: "587551999"
 categories:
   - category: Editorial
-  - category: Typesetting
 ---
