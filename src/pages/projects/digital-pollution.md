@@ -16,5 +16,4 @@ images: []
 vimeoId: "587546962"
 categories:
   - category: Web Design
-  - category: Coding
 ---
