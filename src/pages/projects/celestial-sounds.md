@@ -45,4 +45,5 @@ images:
 vimeoId: "591089409"
 categories:
   - category: Editorial
+  - category: Branding
 ---
