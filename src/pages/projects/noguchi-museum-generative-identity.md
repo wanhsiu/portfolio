@@ -38,5 +38,4 @@ images:
     alt: tote
 categories:
   - category: Branding
-  - category: Coding
 ---
