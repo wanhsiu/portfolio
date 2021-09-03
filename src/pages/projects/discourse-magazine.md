@@ -7,7 +7,8 @@ description: Discourse is a bi annual magazine that focuses on water with a
   design sensibility. A design focused magazine that brings a diverse community
   together to discuss sustainable and human —centric solutions to solve the
   future of water. Covering topics from sustainable objects, innovations, to
-  infrastructures.
+  infrastructures. I designed the entire magazine from the tone of the brand to
+  laying out the spreads.
 details: |-
   Crown Quarto ( 246 x 189mm)
 
