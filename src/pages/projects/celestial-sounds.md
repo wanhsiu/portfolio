@@ -6,7 +6,9 @@ projectDate: 2021-05-12T17:22:06.448Z
 description: Created this concept and identity from scratch. ***Celestial
   Sounds*** is a fictional opening event for James Turrell’s Rodin Crater in
   Arizona featuring a special performance by music and visual artist Solange-
-  who will be reviving her most recent album *When I get Home*.
+  who will be reviving her most recent album *When I get Home*. There will be a
+  timed scheduled performance throughout the night which will be taken place at
+  different spaces inside the Rodin Crater.
 details: |-
   7 x 9” Catalog
 
