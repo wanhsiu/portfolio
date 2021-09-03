@@ -11,6 +11,8 @@ description: >-
   space, which is a prominent feature of the museum. 
 
 
+
+
   **[LINK TO THE LOGO GENERATOR](https://wanhsiu.github.io/noguchi_generative_logo/)**
 details: |-
   Html, Css, and Javascript
