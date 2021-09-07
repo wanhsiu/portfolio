@@ -3,12 +3,11 @@ templateKey: project
 title: Discourse Magazine
 date: 2021-08-21T13:16:20.101Z
 projectDate: 2021-03-04T14:16:20.115Z
-description: Discourse is a bi annual magazine that focuses on water with a
-  design sensibility. A design focused magazine that brings a diverse community
-  together to discuss sustainable and human —centric solutions to solve the
-  future of water. Covering topics from sustainable objects, innovations, to
-  infrastructures. I designed the entire magazine from the tone of the brand to
-  laying out the spreads.
+description: Designed a bi annual magazine from the tone of the brand to laying
+  out the spreads. It's a magazine that focuses on water with a design
+  sensibility by bringing a diverse community together to discuss sustainable
+  and human —centric solutions to solve the future of water. Covering topics
+  from sustainable objects, innovations, to infrastructures.
 details: |-
   Crown Quarto ( 246 x 189mm)
 
