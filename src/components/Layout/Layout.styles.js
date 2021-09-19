@@ -4,8 +4,7 @@ import { Footer } from '../Footer/Footer';
 import { mediaQueries } from '../../style/mediaQueries';
 
 export const Container = styled.div`
-    background: ${props => props.backgroundColor};
-    
+    background: ${props => props.backgroundColor};    
     color: ${props => props.invertBaseColor ? '#fff' : '#000'} !important;
     a {
         color: ${props => props.invertBaseColor ? '#fff' : '#000'} !important;
@@ -16,7 +15,6 @@ export const Container = styled.div`
 `;
 
 export const Content = styled.div`
-    min-height: calc(100vh - 100px);
     padding-top: 80px;
     padding-bottom: 35px;
     ${mediaQueries("md")`

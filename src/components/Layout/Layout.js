@@ -41,9 +41,12 @@ export const Layout = ({ children }) => {
                             circleColor={circleColor}>
                         <Global
                             styles={css`
+                            *, *::before, *::after {
+                                box-sizing: border-box;
+                            }
                             html, body {
-                                width: 100vw;
                                 height: 100vh;
+                                background: ${backgroundColor};
                             }
 
                             body {
