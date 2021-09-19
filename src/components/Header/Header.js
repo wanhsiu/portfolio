@@ -24,7 +24,7 @@ export const Header = ({className}) => {
     return (
     <S.Container className={className}>
         <S.Left>
-            <S.StyledLink to="/about">
+            <S.StyledLink to="/">
                 <S.Title> {siteTitle} </S.Title>
             </S.StyledLink>
             {width < breakpoints.md ? <Time/> : <Characters/>}
