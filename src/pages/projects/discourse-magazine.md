@@ -11,7 +11,7 @@ description: Designed a bi annual magazine from the tone of the brand to laying
 details: |-
   Crown Quarto ( 246 x 189mm)
 
-  Matter Paperback
+  Matte Paperback
 
   53 Pages
 
