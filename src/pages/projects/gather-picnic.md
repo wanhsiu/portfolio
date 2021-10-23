@@ -25,11 +25,9 @@ images:
     alt: billboard
   - src: /img/indentity_7.20-06.jpg
     alt: posters
-  - src: /img/flyer_update_8.2.gif
-    alt: flyer
   - src: /img/indentity_7.20-08.jpg
     alt: merch
-vimeoId: "588389941"
+vimeoId: ""
 categories:
   - category: Branding
 ---
