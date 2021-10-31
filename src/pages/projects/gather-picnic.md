@@ -13,11 +13,11 @@ details: |-
 
   Body Type: Obviously Narrow
 images:
-  - src: /img/indentity_color.jpg
-    alt: "1"
   - src: /img/iteration_timline.gif
     alt: iterations
-  - src: /img/icons_v2_0.31.jpg
+  - src: /img/indentity_color.jpg
+    alt: "1"
+  - src: /img/iterations_10.31-01.jpg
     alt: graphics
   - src: /img/indentity_7.20-07.jpg
     alt: cards
