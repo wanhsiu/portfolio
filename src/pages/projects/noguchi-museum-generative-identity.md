@@ -30,6 +30,8 @@ images:
     alt: billboard
   - src: /img/letterhead.box.broshure.jpg
     alt: assets
+  - src: /img/packaging_v2.jpg
+    alt: packaging 2
 categories:
   - category: Branding
 ---
