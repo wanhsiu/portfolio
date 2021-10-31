@@ -15,10 +15,10 @@ details: |-
 images:
   - src: /img/indentity_color.jpg
     alt: "1"
-  - src: /img/indentity_8.18_graphics_v2-02.jpg
-    alt: graphics
-  - src: /img/indentity_8.18_graphics_v2-01.jpg
+  - src: /img/iteration_timline.gif
     alt: iterations
+  - src: /img/icons_v2_0.31.jpg
+    alt: graphics
   - src: /img/indentity_7.20-07.jpg
     alt: cards
   - src: /img/billboard_8.2.gif
