@@ -28,9 +28,9 @@ images:
     alt: card
   - src: /img/subway-mockup-burnt.jpg
     alt: billboard
-  - src: /img/letterhead.box.broshure.jpg
+  - src: /img/letterhead.box.broshure_10-31.jpg
     alt: assets
-  - src: /img/packaging_v2.jpg
+  - src: /img/packaging_v2_10.31.jpg
     alt: packaging 2
 categories:
   - category: Branding
