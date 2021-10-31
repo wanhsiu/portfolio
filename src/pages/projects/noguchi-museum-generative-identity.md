@@ -24,18 +24,12 @@ images:
     alt: gif
   - src: /img/noguchi_-finalassets-01.jpg
     alt: "1"
-  - src: /img/noguchi_-finalassets_8.18_card-02.jpg
+  - src: /img/businesscard_-final.jpg
     alt: card
-  - src: /img/website_mockup_6.30.gif
-    alt: gif
-  - src: /img/noguchi_-finalassets_8.18_board-05.jpg
+  - src: /img/subway-mockup-burnt.jpg
     alt: billboard
-  - src: /img/stationary_mockup-copy.jpg
-    alt: "1"
-  - src: /img/brochure-mockup-copy.jpg
-    alt: "2"
-  - src: /img/noguchi_-finalassets_8.18_tote-07.jpg
-    alt: tote
+  - src: /img/letterhead.box.broshure.jpg
+    alt: assets
 categories:
   - category: Branding
 ---
