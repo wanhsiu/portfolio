@@ -31,5 +31,6 @@ images:
   - src: /img/on_model_unretouched-nov-21-2017-14.jpg
     alt: "9"
 vimeoId: ""
-categories: []
+categories:
+  - category: Art Direction
 ---
