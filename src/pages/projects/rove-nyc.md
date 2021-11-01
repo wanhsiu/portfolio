@@ -1,7 +1,7 @@
 ---
 templateKey: project
 title: ROVE NYC
-date: 2021-11-01T12:42:21.474Z
+date: 2017-07-15T12:42:21.474Z
 projectDate: 2017-08-12T12:42:21.480Z
 description: ROVE is a gender neutral jewelry and accessories line that
   specializes in designs with a clean and minimal style. I art directed and
