@@ -13,7 +13,10 @@ description: >-
 
   [LINK TO (DIGITAL) POLLUTION](https://wanhsiu.github.io/-Digital-Pollution/)
 details: Html, Css, and Javascript
-images: []
+hoverImage: /img/ezgif.com-gif-maker-4-.gif
+images:
+  - src: /img/ezgif.com-gif-maker-4-.gif
+    alt: video
 vimeoId: "587546962"
 categories:
   - category: Web Design
