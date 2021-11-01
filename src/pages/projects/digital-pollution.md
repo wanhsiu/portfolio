@@ -13,7 +13,7 @@ description: >-
 
   [LINK TO (DIGITAL) POLLUTION](https://wanhsiu.github.io/-Digital-Pollution/)
 details: Html, Css, and Javascript
-hoverImage: /img/ezgif.com-gif-maker-4-.gif
+hoverImage: ""
 images:
   - src: /img/ezgif.com-gif-maker-4-.gif
     alt: video
