@@ -15,7 +15,7 @@ description: >-
 details: Html, Css, and Javascript
 hoverImage: ""
 images:
-  - src: /img/ezgif.com-gif-maker-4-.gif
+  - src: /img/gif_11.1
     alt: video
 vimeoId: "587546962"
 categories:
