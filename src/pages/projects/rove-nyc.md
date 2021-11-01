@@ -22,6 +22,14 @@ images:
     alt: "4"
   - src: /img/rove_chinatown_tennis_court-1035.jpg
     alt: "5"
+  - src: /img/on_model_unretouched-nov-21-2017-3.jpg
+    alt: "6"
+  - src: /img/on_model_unretouched-nov-21-2017-6.jpg
+    alt: "7"
+  - src: /img/on_model_unretouched-nov-21-2017-13.jpg
+    alt: "8"
+  - src: /img/on_model_unretouched-nov-21-2017-14.jpg
+    alt: "9"
 vimeoId: ""
 categories: []
 ---
