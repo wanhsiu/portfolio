@@ -1,6 +1,6 @@
 ---
 templateKey: project
-title: gather picnicc
+title: gather picnic
 date: 2021-07-18T17:20:56.644Z
 projectDate: 2021-05-27T17:20:56.650Z
 description: Created the concept and identity system for ***gather*** - a giant
