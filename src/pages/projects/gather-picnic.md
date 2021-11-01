@@ -17,7 +17,7 @@ images:
     alt: iterations
   - src: /img/indentity_color.jpg
     alt: "1"
-  - src: /img/iterations_10.31-01.jpg
+  - src: /img/icons_11.1-01.jpg
     alt: graphics
   - src: /img/indentity_7.20-07.jpg
     alt: cards
