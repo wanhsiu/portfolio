@@ -12,11 +12,11 @@ description: >-
 
   [LINK TO (DIGITAL) POLLUTION](https://wanhsiu.github.io/-Digital-Pollution/)
 details: Html, Css, and Javascript
-hoverImage: ""
+hoverImage: /img/apple-touch-icon.png
 images:
   - src: /img/gif_11.1
     alt: video
-vimeoId: "641326501"
+vimeoId: ""
 categories:
   - category: Web Design
 ---
