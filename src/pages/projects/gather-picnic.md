@@ -25,10 +25,10 @@ images:
     alt: billboard
   - src: /img/indentity_7.20-06.jpg
     alt: posters
+  - src: /img/infokiosk_v2.jpg
+    alt: kiosk
   - src: /img/indentity_7.20-08.jpg
     alt: merch
-  - src: /img/infokiok.jpg
-    alt: kiosk
 vimeoId: ""
 categories:
   - category: Branding
