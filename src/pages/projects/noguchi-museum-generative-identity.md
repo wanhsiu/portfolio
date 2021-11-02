@@ -8,9 +8,8 @@ description: >-
   Long Island City, New York. The identity is created through generative design,
   using code to randomly generate different configurations of the logo.The
   inspiration and parameters for the logo is taken from the floor plan of the
-  space, which is a prominent feature of the museum. \
+  space, which is a prominent feature of the museum. 
 
-  \
 
   **[LINK TO THE LOGO GENERATOR](https://wanhsiu.github.io/noguchi_generative_logo/)**
 details: |-
