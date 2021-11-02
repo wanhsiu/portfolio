@@ -27,6 +27,8 @@ images:
     alt: posters
   - src: /img/indentity_7.20-08.jpg
     alt: merch
+  - src: /img/infokiok.jpg
+    alt: kiosk
 vimeoId: ""
 categories:
   - category: Branding
