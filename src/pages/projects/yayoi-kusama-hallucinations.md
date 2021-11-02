@@ -1,7 +1,7 @@
 ---
 templateKey: project
 title: "Yayoi Kusama: Hallucinations"
-date: 2020-04-08T13:15:28.711Z
+date: 2020-04-07T13:15:28.711Z
 projectDate: 2020-04-08T13:15:28.720Z
 description: This project explores typesetting and book design. The book is a
   biography about artist Yayoi Kusama. The spreads are inspired by her artworks
