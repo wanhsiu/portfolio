@@ -1,7 +1,7 @@
 ---
 templateKey: project
 title: Celestial Sounds
-date: 2021-07-18T17:22:06.440Z
+date: 2021-05-12T17:22:06.440Z
 projectDate: 2021-05-12T17:22:06.448Z
 description: Created the concept and identity for ***Celestial Sounds*** - a
   fictional opening event for James Turrell’s Rodin Crater in Arizona featuring
