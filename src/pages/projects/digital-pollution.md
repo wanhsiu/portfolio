@@ -7,9 +7,8 @@ description: >-
   ***(Digital) Pollution*** is a website that allows users to visualize the air
   quality in any location. In this project, I designed the website and visual
   key. I also coded the entire site by pulling data from the current air
-  pollution API.\
+  pollution API.
 
-  \
 
   [LINK TO (DIGITAL) POLLUTION](https://wanhsiu.github.io/-Digital-Pollution/)
 details: Html, Css, and Javascript
