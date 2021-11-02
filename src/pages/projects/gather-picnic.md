@@ -19,7 +19,7 @@ images:
     alt: "1"
   - src: /img/icons_11.1-01.jpg
     alt: graphics
-  - src: /img/indentity_7.20-07.jpg
+  - src: /img/indentity_11.1-06.jpg
     alt: cards
   - src: /img/billboard_8.2.gif
     alt: billboard
