@@ -1,7 +1,7 @@
 ---
 templateKey: project
 title: (Digital) Pollution
-date: 2021-07-18T17:23:38.820Z
+date: 2021-05-06T17:23:38.820Z
 projectDate: 2021-05-06T17:23:38.828Z
 description: >-
   ***(Digital) Pollution*** is a website that allows users to visualize the air
