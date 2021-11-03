@@ -16,7 +16,7 @@ export default () => (
   <StaticQuery
     query={graphql`
     query PROJECTS_QUERY {
-        allMarkdownRemark(filter: {fields: {slug: {glob: "/projects/*"}}}) {
+        allMarkdownRemark(filter: {fields: {slug: {glob: "/projects/*"}}}, sort: {fields: frontmatter___date, order: DESC}) {
         edges {
             node {
             id

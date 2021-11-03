@@ -54,25 +54,15 @@ export const Circle = styled.span`
 export const ImageContainer = styled.div`
     position: absolute;
     z-index: 10;
-    top: 40%;
+    top: 25%;
     left: 50%;
     width: 500px;
-    margin-top: -250px; 
-    margin-left: -250px; 
+    transform: translate(-50%, -50%);
 `;
 
 export const Image = styled.img`
     position: absolute;
     width: 100%;
     height: auto;
-    opacity: 0.50;
+    opacity: 0.60;
 `;
-
-/*
-  top: 50%;
-    left: 50%;
-    width: 500px;
-    height: 500px;
-    margin-top: -250px; 
-    margin-left: -250px; 
-*/

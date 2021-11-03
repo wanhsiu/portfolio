@@ -31,7 +31,13 @@ export default function useTimeCfg() {
 
     const getConfigByTime = () => {
         const hour = date.getHours();
-        console.log('hour', hour)
+        return {
+            backgroundColor: '#000',
+            circleColor: '#1CED56',
+            invertBaseColor: true
+        }
+
+        /*
         if (hour >= 6 && hour < 12) {
             return colorConfig.morning;
         } else if (hour >= 12 && hour < 17) {
@@ -41,6 +47,7 @@ export default function useTimeCfg() {
         } else {
             return colorConfig.night;
         }
+        */
     }
 
     useEffect(() => {

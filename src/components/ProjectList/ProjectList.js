@@ -82,7 +82,7 @@ export const ProjectList = ({projects}) => {
                     onMouseEnter={projectMouseEnterHandler}
                     onMouseLeave={projectMouseLeaveHandler}/>)}
             </S.Table>
-            {false && 
+            {projectImage &&
                 <S.ImageContainer>
                     <S.Image src={projectImage}/>
                 </S.ImageContainer>
