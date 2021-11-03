@@ -42,14 +42,25 @@ export const ProjectDetails = ({
                     <S.DetailWrap>
                         <S.DetailTitle>Details</S.DetailTitle>
                         <div>
-                            <S.StyledReactMarkdown>{details}</S.StyledReactMarkdown>
+                            <S.StyledReactMarkdown
+                                components={
+                                    {
+                                        a: ({node, ...props}) => <a target="_blank" {...props} />
+                                    }
+                                }
+                            >{details}</S.StyledReactMarkdown>
                         </div>
                     </S.DetailWrap>
                 </S.Right>
             </S.Details>
 
             <S.Description>
-                <S.StyledReactMarkdown>{description}</S.StyledReactMarkdown>
+                <S.StyledReactMarkdown
+                    components={
+                        {
+                            a: ({node, ...props}) => <a target="_blank" {...props} />
+                        }
+                    }>{description}</S.StyledReactMarkdown>
             </S.Description>
 
             {vimeoId &&
