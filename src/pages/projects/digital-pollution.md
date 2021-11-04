@@ -12,7 +12,7 @@ description: >-
 
   [LINK TO (DIGITAL) POLLUTION](https://wanhsiu.github.io/-Digital-Pollution/)
 details: Html, Css, and Javascript
-hoverImage: /img/apple-touch-icon.png
+hoverImage: ""
 images:
   - src: /img/e9e46251-e73a-4338-8e77-f1eb6ad0ba83.gif
     alt: polution video
