@@ -7,7 +7,7 @@ description: Created the concept and identity system for ***gather*** - a giant
   picnic event to welcome the spring season. It is inspired by Hanami Picnic
   during cherry blossom season in Japan. In translation means “cherry blossom
   viewing”. The identity consists of floral graphic elements, the name of the
-  organization, and a grid that is used an organization principle.
+  organization, and a grid that is used as an organization principle.
 details: |-
   Logo Type, Body Type: Obviously Wide
 
