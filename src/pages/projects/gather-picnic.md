@@ -3,11 +3,11 @@ templateKey: project
 title: gather picnic
 date: 2021-07-18T17:20:56.644Z
 projectDate: 2021-07-18T17:20:56.650Z
-description: Created the concept and identity system for ***gather*** - a giant
-  picnic event to welcome the spring season. It is inspired by Hanami Picnic
-  during cherry blossom season in Japan. In translation means “cherry blossom
-  viewing”. The identity consists of floral graphic elements, the name of the
-  organization, and a grid that is used as an organization principle.
+description: I created the concept and identity system for ***gather*** - a
+  giant picnic event to welcome the spring season. It is inspired by Hanami
+  Picnic during cherry blossom season in Japan. In translation means “cherry
+  blossom viewing”. The identity consists of floral graphic elements, the name
+  of the organization, and a grid that is used as an organizing principle.
 details: |-
   Logo Type, Body Type: Obviously Wide
 
@@ -23,7 +23,7 @@ images:
     alt: cards
   - src: /img/billboard_8.2.gif
     alt: billboard
-  - src: /img/indentity_7.20-06.jpg
+  - src: /img/poster_mockup_revision_11.10.jpg
     alt: posters
   - src: /img/infokiosk_v2.jpg
     alt: kiosk
