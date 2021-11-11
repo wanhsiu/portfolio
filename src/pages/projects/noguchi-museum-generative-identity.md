@@ -6,8 +6,8 @@ projectDate: 2020-08-21T12:52:00.000Z
 description: >-
   For this project, I created a new visual identity for the Noguchi Museum in
   Long Island City, New York. The identity is created through generative design,
-  using code to randomly generate different configurations of the logo.The
-  inspiration and parameters for the logo is taken from the floor plan of the
+  using code to randomly generate different configurations of the logo. The
+  inspiration and parameters for the logo are taken from the floor plan of the
   space, which is a prominent feature of the museum.\
 
   \
