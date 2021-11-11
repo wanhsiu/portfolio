@@ -31,6 +31,8 @@ images:
     alt: assets
   - src: /img/packaging_v2_10.31.jpg
     alt: packaging 2
+  - src: /img/screen-recording-2021-11-10-at-9.51.13-pm.gif
+    alt: website
 categories:
   - category: Branding
 ---
