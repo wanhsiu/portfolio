@@ -21,7 +21,7 @@ images:
     alt: graphics
   - src: /img/indentity_11.1-06.jpg
     alt: cards
-  - src: /img/billboard_8.2.gif
+  - src: /img/ezgif.com-gif-maker-4-.gif
     alt: billboard
   - src: /img/poster_mockup_revision_11.10.jpg
     alt: posters
