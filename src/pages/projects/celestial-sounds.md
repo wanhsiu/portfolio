@@ -39,7 +39,7 @@ images:
     alt: "8"
   - src: /img/solangeturrell_8-copy.jpg
     alt: "9"
-  - src: /img/mobile_12.21.jpg
+  - src: /img/phone_resize_v2_12.21jpg.jpg
     alt: gif
   - src: /img/swag_update_12.21.jpg
     alt: swag
