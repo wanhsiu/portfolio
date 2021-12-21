@@ -8,7 +8,7 @@ description: I created the concept and identity for **Celestial Sounds** - a
   a special performance by music and visual artist Solange, who will be reviving
   her most recent album **When I Get Home**. There will be a timed scheduled
   performance throughout the night which will be taken place at different spaces
-  inside the Rodin Crater.
+  inside the Roden Crater.
 details: |-
   7 x 9” Catalog
 
