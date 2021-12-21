@@ -43,6 +43,8 @@ images:
     alt: gif
   - src: /img/swag_update_12.21.jpg
     alt: swag
+  - src: /img/ezgif.com-gif-maker-5-.gif
+    alt: gif
 vimeoId: ""
 categories:
   - category: Editorial
