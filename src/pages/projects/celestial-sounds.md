@@ -41,7 +41,7 @@ images:
     alt: "9"
   - src: /img/mobile_12.21.jpg
     alt: gif
-  - src: /img/artboard-3.jpg
+  - src: /img/swag_update_12.21.jpg
     alt: swag
 vimeoId: ""
 categories:
