@@ -39,11 +39,11 @@ images:
     alt: "8"
   - src: /img/solangeturrell_8-copy.jpg
     alt: "9"
-  - src: /img/website_mockup_8.23_v2.gif
+  - src: /img/mobile_12.21.jpg
     alt: gif
   - src: /img/artboard-3.jpg
     alt: swag
-vimeoId: "591089409"
+vimeoId: ""
 categories:
   - category: Editorial
 ---
