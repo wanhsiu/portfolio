@@ -21,7 +21,7 @@ details: |-
   \
   Typeface: Violet Sans
 images:
-  - src: /img/solangeturrell_cover_12.18_black.jpg
+  - src: /img/cover-template_website.jpg
     alt: "1"
   - src: /img/solangeturrell_1-copy.jpg
     alt: "2"
