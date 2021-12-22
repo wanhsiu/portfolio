@@ -39,12 +39,10 @@ images:
     alt: "8"
   - src: /img/solangeturrell_8-copy.jpg
     alt: "9"
-  - src: /img/phone_resize_v2_12.21jpg.jpg
+  - src: /img/mobile_12.21.gif
     alt: gif
   - src: /img/swag_update_12.21.jpg
     alt: swag
-  - src: /img/ezgif.com-gif-maker-5-.gif
-    alt: gif
 vimeoId: ""
 categories:
   - category: Editorial
