@@ -1,6 +1,6 @@
 ---
 templateKey: project
-title: Discourse Magazine
+title: Discourse
 date: 2021-06-19T13:16:20.101Z
 projectDate: 2021-06-19T13:16:20.115Z
 description: >-
