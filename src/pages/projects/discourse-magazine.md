@@ -58,4 +58,5 @@ images:
     alt: "13"
 categories:
   - category: Editorial
+  - category: Typesetting
 ---
