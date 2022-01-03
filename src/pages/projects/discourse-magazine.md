@@ -28,11 +28,11 @@ details: |-
 images:
   - src: /img/magazine_timeline_update.gif
     alt: g
-  - src: /img/discourse_mushroom_1.jpg
+  - src: /img/mushroom_spread_update_1.3.jpg
     alt: "1"
   - src: /img/discourse_mushroom_2.jpg
     alt: "2"
-  - src: /img/discourse_mushroom_3.jpg
+  - src: /img/mushroom_spread_3_update_1.3.jpg
     alt: "3"
   - src: /img/discourse_mushroom_4.jpg
     alt: "4"
