@@ -32,4 +32,6 @@ images:
 vimeoId: ""
 categories:
   - category: Branding
+  - category: Illustration
+  - category: Design
 ---
