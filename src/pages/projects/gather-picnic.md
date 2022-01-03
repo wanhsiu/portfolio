@@ -27,7 +27,7 @@ images:
     alt: posters
   - src: /img/infokiosk_v2.jpg
     alt: kiosk
-  - src: /img/indentity_7.20-08.jpg
+  - src: /img/picnictote_black_1.3.jpg
     alt: merch
 vimeoId: ""
 categories:
