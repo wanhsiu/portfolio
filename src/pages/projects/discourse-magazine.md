@@ -38,7 +38,7 @@ images:
     alt: "4"
   - src: /img/discourse_binchotan_1.jpg
     alt: "5"
-  - src: /img/discourse_binchotan_2.jpg
+  - src: /img/discourse_binchotan_2_update_1.3.jpg
     alt: "6"
   - src: /img/discourse_natural-resource_spread.jpg
     alt: "14"
