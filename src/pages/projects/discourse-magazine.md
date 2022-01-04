@@ -46,7 +46,7 @@ images:
     alt: "8"
   - src: /img/discourse_sustainableobject_spread.jpg
     alt: "9"
-  - src: /img/discourse_waterhall_1.jpg
+  - src: /img/discourse_hydrant_1.jpg
     alt: "10"
   - src: /img/discourse_waterhall_2.jpg
     alt: "11"
