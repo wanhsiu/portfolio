@@ -32,8 +32,6 @@ images:
     alt: "1"
   - src: /img/discourse_mushroom_2.jpg
     alt: "2"
-  - src: /img/discourse_mushroom_3_update_1.3.22.jpg
-    alt: "3"
   - src: /img/discourse_mushroom_4.jpg
     alt: "4"
   - src: /img/discourse_binchotan_1_update_1.3.jpg
