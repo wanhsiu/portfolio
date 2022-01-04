@@ -1,6 +1,6 @@
 ---
 templateKey: project
-title: Noguchi Museum Generative Identity
+title: Noguchi Museum
 date: 2020-09-09T19:58:00.000Z
 projectDate: 2020-08-21T12:52:00.000Z
 description: >-
