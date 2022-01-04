@@ -35,4 +35,5 @@ images:
     alt: website
 categories:
   - category: Branding
+  - category: Coding
 ---
