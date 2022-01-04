@@ -46,4 +46,6 @@ images:
 vimeoId: ""
 categories:
   - category: Editorial
+  - category: Typesetting
+  - category: Branding
 ---
