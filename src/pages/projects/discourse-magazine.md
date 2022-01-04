@@ -26,7 +26,7 @@ details: |-
 
   Header, Quotes: Newsreader Display, Space Mono, and BW Stretch
 images:
-  - src: /img/ezgif.com-gif-maker-6-.gif
+  - src: /img/ezgif_update_1.3.gif
     alt: g
   - src: /img/discourse_mushroom_1_update_1.3.jpg
     alt: "1"
@@ -36,7 +36,7 @@ images:
     alt: "3"
   - src: /img/discourse_mushroom_4.jpg
     alt: "4"
-  - src: /img/discourse_binchotan_1.jpg
+  - src: /img/discourse_binchotan_1_update_1.3.jpg
     alt: "5"
   - src: /img/discourse_binchotan_2_update_1.3.jpg
     alt: "6"
