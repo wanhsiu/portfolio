@@ -26,7 +26,7 @@ details: |-
 
   Header, Quotes: Newsreader Display, Space Mono, and BW Stretch
 images:
-  - src: /img/magazine_timeline_update.gif
+  - src: /img/ezgif.com-gif-maker-6-.gif
     alt: g
   - src: /img/discourse_mushroom_1_update_1.3.jpg
     alt: "1"
