@@ -21,6 +21,8 @@ details: |-
   \
   Typeface: Violet Sans
 images:
+  - src: /img/celestial-sounds.gif
+    alt: gi
   - src: /img/cover-template_website.jpg
     alt: "1"
   - src: /img/solangeturrell_1-copy.jpg
@@ -43,8 +45,6 @@ images:
     alt: gif
   - src: /img/swag_update_12.21.jpg
     alt: swag
-  - src: /img/celestial-sounds.gif
-    alt: gi
 vimeoId: ""
 categories:
   - category: Editorial
