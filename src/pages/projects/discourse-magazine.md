@@ -13,7 +13,7 @@ description: >-
 
   I designed the entire magazine from the tone of the brand to laying out the spreads.
 details: |-
-  Crown Quarto ( 246 x 189mm)
+  Crown Quarto ( 246 x 189mm )
 
   Matte Paperback
 
